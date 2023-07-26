@@ -11,9 +11,7 @@ A completely Responsive Multiplayer TicTacToe Game- Works on Android, iOS, Web &
 - Cross Platform Game
 
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-multiplayer-tictactoe/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
+
 
 
 ## Installation
